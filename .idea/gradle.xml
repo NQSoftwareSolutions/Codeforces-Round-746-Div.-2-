@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A. Gamer Hemose" />
+            <option value="$PROJECT_DIR$/Problems/B. Hemose Shopping" />
+            <option value="$PROJECT_DIR$/Problems/C. Bakry and Partitioning" />
+            <option value="$PROJECT_DIR$/Problems/D. Hemose in ICPC" />
+            <option value="$PROJECT_DIR$/Problems/E. Bored Bakry" />
+            <option value="$PROJECT_DIR$/Problems/F1. Alice and Recoloring 1" />
+            <option value="$PROJECT_DIR$/Problems/F2. Alice and Recoloring 2" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
